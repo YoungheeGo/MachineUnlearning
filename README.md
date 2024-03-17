@@ -19,3 +19,5 @@
     $L_{forget}=1/batchsize (sum_{i=1}^{batch1}(l_i))$
 
 - 새롭게 Self Supervised Contrastive Learning 알고리즘을 알게 되었다!
+
+끝.
