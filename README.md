@@ -5,3 +5,5 @@
 - teacher network(retain_data+forget_data)와 student network(retain_data)의 KL-divergence loss를 줄이는 방향으로 student network학습.
 
 
+- private rank: 2, public rank:1  solution
+  - https://www.kaggle.com/competitions/neurips-2023-machine-unlearning/discussion/458721
